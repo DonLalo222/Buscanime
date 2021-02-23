@@ -4,10 +4,11 @@ Aplicación web construida a modo de testing, básicamente es un buscador de inf
 
 Incluye buscador mediante coincidencia de nombre.
 resultados:
-Fotografía de referencia del anime.
-listado de personajes con fotografía y nombres.
-otros animes relacionados al personaje.
-video promo.
-actores de doblaje referente al anime.
+
+1. Fotografía de referencia del anime.
+2. listado de personajes con fotografía y nombres.
+3. otros animes relacionados al personaje.
+4. video promo.
+5. actores de doblaje referente al anime.
 
 link demo: https://youtu.be/fr_p8w8bJGk
