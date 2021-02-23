@@ -1,0 +1,86 @@
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.exe
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.deps.json
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.runtimeconfig.json
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.runtimeconfig.dev.json
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.dll
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.pdb
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.Views.dll
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.Views.pdb
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.csprojAssemblyReference.cache
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/staticwebassets/Buscanime.StaticWebAssets.Manifest.cache
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/staticwebassets/Buscanime.StaticWebAssets.xml
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorAssemblyInfo.cache
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorAssemblyInfo.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.AssemblyInfoInputs.cache
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.AssemblyInfo.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.TagHelpers.input.cache
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.TagHelpers.output.cache
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorCoreGenerate.cache
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorTargetAssemblyInfo.cache
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorTargetAssemblyInfo.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.Views.pdb
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.dll
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.pdb
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.csproj.CopyComplete
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Animes/Search.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Animes/Details.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Animes/Promo.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Animes/Characters.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Characters/Details.cshtml.g.cs
+C:/Users/gvasq/Desktop/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/VoiceActor/Details.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/appsettings.json
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.deps.json
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.runtimeconfig.json
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.runtimeconfig.dev.json
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.dll
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.pdb
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.Views.dll
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Buscanime.Views.pdb
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.csprojAssemblyReference.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.AssemblyInfoInputs.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.AssemblyInfo.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.csproj.CoreCompileInputs.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.MvcApplicationPartsAssemblyInfo.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorAssemblyInfo.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorAssemblyInfo.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/staticwebassets/Buscanime.StaticWebAssets.Manifest.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/staticwebassets/Buscanime.StaticWebAssets.xml
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/scopedcss/bundle/Buscanime.styles.css
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.TagHelpers.input.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.TagHelpers.output.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorCoreGenerate.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Animes/Characters.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Animes/Details.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Animes/Promo.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Animes/Search.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Characters/Details.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/VoiceActor/Details.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorTargetAssemblyInfo.cache
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.RazorTargetAssemblyInfo.cs
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.Views.pdb
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.csproj.CopyComplete
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.dll
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.pdb
+/media/eduardo/uso variado/24_07_2020/Proyectos Portafolio/NetCore_Buscanime/Buscanime/obj/Debug/netcoreapp3.1/Buscanime.genruntimeconfig.cache

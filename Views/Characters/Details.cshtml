@@ -1,0 +1,93 @@
+@using Buscanime.Models;
+
+@model CharacterDetail;
+
+<h2 class="font-weight-light">Character Detail</h2>
+<hr>
+
+<div class="row">
+    <div class="col-4">
+        <img src="@Model.image_url" alt="character image" class="img-fluid" style="width: 225px; height: 350px; object-fit: contain;">
+        <p>@Model.name / @Model.name_kanji</p>
+        <br>
+        <!-- -->
+
+        <!-- -->
+    </div>
+    <div class="col-8">
+        <!-- -->
+        <div class="accordion" id="accordionExample">
+            <div class="card">
+                <div class="card-header" id="headingOne">
+                <h2 class="mb-0">
+                    <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    Voice Actors
+                    </button>
+                </h2>
+                </div>
+
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="card-body">
+                    <div class="row">
+                        @foreach (VoiceActor va in @Model.voice_actors)
+                        {       
+                            <div class="col-3 text-center m-3">
+                                <img src="@va.image_url" alt="voice actor image" style="width: 150px; height: 200px; object-fit: contain;" class="img-fluid">
+                                <p>@Html.ActionLink(@va.name, "details", "voice-actor", new {id = @va.mal_id})
+                                    <br>
+                                    @va.language
+                                </p>
+                            </div>
+                        }
+                    </div>
+                </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingTwo">
+                <h2 class="mb-0">
+                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Animeography
+                    </button>
+                </h2>
+                </div>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div class="card-body">
+                    <div class="row">
+                        @foreach (Animeography an in @Model.animeography)
+                        {       
+                            <div class="col-3 text-center m-3">
+                                <img src="@an.image_url" alt="voice actor image" style="width: 150px; height: 200px; object-fit: contain;" class="img-fluid">
+                                <p>@Html.ActionLink(@an.name, "details", "animes", new {id = @an.mal_id})</p>
+                            </div>
+                        }
+                    </div>
+                </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingThree">
+                <h2 class="mb-0">
+                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    Mangaography
+                    </button>
+                </h2>
+                </div>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div class="card-body">
+                    <div class="row">
+                        @foreach (Mangaography manga in @Model.mangaography)
+                        {       
+                            <div class="col-3 text-center m-3">
+                                <img src="@manga.image_url" alt="voice actor image" style="width: 150px; height: 200px; object-fit: contain;" class="img-fluid">
+                                <p>@manga.name</p>
+                            </div>
+                        }
+                    </div>
+                </div>
+                </div>
+            </div>
+            </div>
+        <!-- -->
+    </div>
+</div>

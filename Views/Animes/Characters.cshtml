@@ -1,0 +1,44 @@
+@using Buscanime.Models;
+
+@{
+    var id = ViewBag.Id;
+}
+
+@model QueryCharacterStaff;
+
+
+
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link" href="/animes/details/@id" >Details</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/animes/details/@id/promo">Video Promo</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="/animes/details/@id/characters">Characters</a>
+  </li>
+</ul>
+<hr>
+<!-- -->
+<h2 class="font-weight-light">
+    Characters
+</h2>
+<hr>
+<!-- -->
+
+<div class="row">
+
+
+  @foreach (Character character in @Model.characters)
+  {
+    
+    <div class="col-3 text-center">
+      <img src="@character.image_url" class="img-thumbnail img-fluid" alt="image character" style="width: 200px; height: 300px; object-fit: contain;">
+      <p>@Html.ActionLink(@character.name, "details", "characters", new {id = @character.mal_id})</p>
+    </div>
+  }
+
+  </div>
+
+  <!-- https://api.jikan.moe/v3/person/289/pictures -->

@@ -1,0 +1,41 @@
+@using Buscanime.Models;
+
+@model QueryAnime;
+
+@foreach (Result result in @Model.results)
+  {
+    <div class="card mb-3">
+    <div class="row no-gutters">
+      <div class="col-md-2 border-right">
+        <img src="@result.image_url" class="img-catalog-anime" />
+      </div>
+      <div class="col-md-6 border-right">
+        <div class="card-body">
+          <a href="/animes/details/@result.mal_id">
+            <h5 class="card-title">@result.title</h5>
+          </a>
+          <p class="card-text">@result.synopsis</p>
+          <p class="card-text"><small class="text-muted">type: @result.type</small></p>
+        </div>
+      </div>
+      <div class="col-md-2 border-right">
+        <div class="card-body">
+          <h5 class="card-title">Episodes</h5>
+          <p class="card-text">@result.episodes</p>
+        </div>
+        
+      </div>
+      <div class="col-md-2">
+        <div class="card-body">
+          <h5 class="card-title">Score</h5>
+          <p class="card-text">@result.score</p>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+      
+  }
+
+  
+

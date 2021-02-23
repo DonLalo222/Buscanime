@@ -1,0 +1,39 @@
+@using Buscanime.Models;
+
+@{
+    var id = ViewBag.Id;
+}
+
+@model QueryVideo;
+
+
+
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link" href="/animes/details/@id" >Details</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="/animes/details/@id/promo">Video Promo</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/animes/details/@id/characters">Characters</a>
+  </li>
+</ul>
+<hr>
+<!-- -->
+<h2 class="font-weight-light">
+    Promo Videos
+</h2>
+<hr>
+<!-- -->
+@foreach (Promo promo in @Model.promo)
+{
+    <div class="border p-3">
+        <h4 class="font-weight-light">
+            @promo.title
+        </h4>
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="@promo.video_url?autoplay=0&rel=0" allowfullscreen></iframe>
+        </div>
+    </div>
+}

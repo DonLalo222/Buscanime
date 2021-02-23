@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Buscanime</h1>
+    <form action="/animes/search" method="get">
+        <input type="search" name="query" class="form-control text-center" minlength="3" required />
+        <br>
+        <input type="submit" value="Buscar" class="btn btn-primary"/>
+    </form>
+</div>
